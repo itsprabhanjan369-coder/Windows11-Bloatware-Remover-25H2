@@ -1,5 +1,3 @@
-Download files and place ps1 and bat files in usb
-and open bat file and change the ps1 file path
-and save that bat
-and run as Admin
+Download files and place ps1 and bat files and save at same path/folder.
+and open bat file as admin
 all bloatware will remove (except windows store+its core apps, notepad, snip tool, calculator, and paint apps)
